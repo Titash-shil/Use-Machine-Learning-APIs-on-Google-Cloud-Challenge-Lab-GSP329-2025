@@ -85,7 +85,7 @@ echo ""
 
 
 echo ""
-echo -e "${BOLD_CYAN}For more tutorials, visit: ${UNDERLINE}https://www.youtube.com/@drabhishek.5460/videos${RESET}"
+echo -e "${BOLD_GREEN} Subacribe t0 QwikLab Explorers : ${UNDERLINE}https://www.youtube.com/@qwiklabexplorers${RESET}"
 echo ""
 
 #-----------------------------------------------------end----------------------------------------------------------#
