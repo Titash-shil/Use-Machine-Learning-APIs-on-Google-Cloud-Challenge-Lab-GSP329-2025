@@ -11,11 +11,11 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Deploy-Your-Website-on-Cloud-Run-GSP659-Updated/refs/heads/main/qwiklab_explorers_gsp659.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Use-Machine-Learning-APIs-on-Google-Cloud-Challenge-Lab-GSP329-2025/refs/heads/main/qwiklab_explorers_gsp329.sh
 
-sudo chmod +x qwiklab_explorers_gsp659.sh
+sudo chmod +x qwiklab_explorers_gsp329.sh
 
-./qwiklab_explorers_gsp659.sh
+./qwiklab_explorers_gsp329.sh
 ```
 
 ---
